@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    margin-top: 100px;
+    width: 70%;
+}
+
+.kui-block h3 {
+    margin-top: 0;
+}
+
+.kui-mb-50 {
+    margin-bottom: 50px;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,17 @@
+.myBtn {
+    padding: 0.5rem 0.7rem;
+    color: #43a857;
+    font-size: 1rem;
+    background-color: rgba(234,234,234,0.5);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.myBtn:hover {
+    color: rgba(234,234,234,0.8);
+    background-color: #43a857;
+}
